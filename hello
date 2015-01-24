@@ -1,0 +1,13 @@
+#include <isotream>
+using namespace std;
+
+void test()
+{
+   cout<<"test";
+}
+
+void main()
+{
+   test();
+  cout<<"helloworld";
+}
